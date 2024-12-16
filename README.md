@@ -65,3 +65,40 @@ python main.py < <file_name>.toml
 ```
 python -m unittest main_test.py
 ```
+
+Пример входного файла:
+
+![image](https://github.com/user-attachments/assets/06cf68be-cb39-426f-b447-727beeb19260)
+
+Пример выходного файла:
+
+![image](https://github.com/user-attachments/assets/45dd8600-7069-4c1b-b3f9-eb4ddc3e004a)
+
+Пример входного файла2:
+
+![image](https://github.com/user-attachments/assets/808c2112-bf4d-4821-88a3-2bbfdf008706)
+
+Пример выходного файла2:
+
+![image](https://github.com/user-attachments/assets/d0406a19-a875-4d2e-a1d1-1891f372efe1)
+
+Пример входного файла3:
+
+![image](https://github.com/user-attachments/assets/2a1468d5-d67b-4cd3-9c2d-b4fe4a0d4810)
+
+Пример выходного файла3:
+
+![image](https://github.com/user-attachments/assets/8a554665-ba6e-43c8-8856-fde380e4df27)
+
+Пример входного файла4:
+
+![image](https://github.com/user-attachments/assets/478150cb-b8a8-4abd-b74f-7f93fc11d7f7)
+
+Пример выходного файла4:
+
+![image](https://github.com/user-attachments/assets/df531690-b2cd-426b-a654-8922995e46b5)
+
+## Результат юнит-тестов программы
+
+![image](https://github.com/user-attachments/assets/ee64be8b-869c-4fec-9957-314905f0f1cc)
+
