@@ -1,0 +1,10 @@
+[database]
+server = "192.168.1.1"  # NB. Адрес сервера
+ports = [8000, 8001, 8002]  # NB. Список портов
+connectionMax = 5000
+
+[nested]
+key = [
+  { innerKey1 = 10, innerKey2 = 20 },
+  { innerKey3 = 30 }
+]
